@@ -1,0 +1,6 @@
+axiome = "a"
+regles =
+  "a=-a+a"
+angle = 90
+taille = 3
+niveau = 10

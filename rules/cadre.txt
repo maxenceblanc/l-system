@@ -1,0 +1,6 @@
+axiome = "a"
+regle =
+  "100=a=a+[a]"
+ angle = 30
+ taille = 50
+ niveau = 15
